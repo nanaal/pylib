@@ -1,0 +1,9 @@
+#README
+#This directory contains all configuration files which is used
+#by other modules
+#If you would like to add configuration file in this directory,
+#please name file as module_name+conf.py
+
+#Gconf.py, this file save global values which can be used by all modules
+#SPAconf.py, this file save the values which would be used during installing
+# and configuring SPA
